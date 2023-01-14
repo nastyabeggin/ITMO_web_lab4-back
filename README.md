@@ -44,7 +44,7 @@
 - Выход из аккаунта
 
 <br />**Мобильная версия**<br />
-![2023-01-14_15-32-09](https://user-images.githubusercontent.com/45201186/212471721-f18aea62-5363-42d6-ae00-6f72f88d1115.png)
+![2023-01-14_15-32-09](https://user-images.githubusercontent.com/45201186/212471721-f18aea62-5363-42d6-ae00-6f72f88d1115.png | height=300)
 
 ## Для запуска 
 В файл application.properties вписать логин и пароль от своей БД PostgresQL
