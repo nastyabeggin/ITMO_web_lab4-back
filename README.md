@@ -27,4 +27,4 @@
 - Все результаты проверки должны сохраняться в базе данных под управлением СУБД Oracle.
 - Для доступа к БД необходимо использовать Spring Data.
 
-ws.com/secure.notion-static.com/fe14532d-44b3-4f44-8858-f145bed89b65/Untitled.png)
+<img width="245" alt="Screenshot 2023-01-14 at 3 29 52 PM" src="https://user-images.githubusercontent.com/45201186/212471609-b0b92501-f2f8-47e1-857f-bc90d53146e2.png">
